@@ -40,7 +40,7 @@ h1{
 }
 .footer{
     background-color: darkgray;
-    width: auto;
+    width: 100%;
 }
 #footer{
     text-align: center;
@@ -55,16 +55,14 @@ h2{
 #side{
     float: right;
 }
-body{
-    width: 100%;
-}
+
 p{
     font-family: 'Montserrat', sans-serif;
 
 }
 #logo{
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
 }
 #h5{
     font-family: 'Lato', sans-serif;
