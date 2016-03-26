@@ -1,0 +1,49 @@
+.header{
+    background-color: darkcyan;
+
+}
+h1{
+    color: coral;
+    text-align: left;
+
+}
+#msg{
+    font-size: 18px;
+}
+.bg{
+    background-image: url(big_img.jpg);
+    background-size: cover;
+    height: 600px;
+}
+#h4{
+    text-align: right;
+}
+mbp{
+    text-align: center;
+}
+.ad{
+    text-align: center;
+}
+#ad{
+    background-color: green;
+    width: 600px;
+    height: 120px;
+}
+.footer{
+    background-color: darkcyan;
+}
+#footer{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.logo{
+    display: inline-block;
+}
+#side{
+    float: right;
+}
+body{
+    width: 100%;
+}
